@@ -20,8 +20,6 @@ Security Orchestration, Automation and Response
 [https://github.com/111Cyber0cculte888/zbn](https://github.com/111Cyber0cculte888/zbn)
 
 
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
-
 
 # OOAR INFORMATIONS
 
