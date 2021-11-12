@@ -42,3 +42,15 @@ Offensive Orchestration, Automation and Response
 ### PLANX APP ID 02B
 #### Nice, 3D viz but very fat configuration .. and expensive.
 ![PLANX APP ID 02B](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/darpa_plan_x_oculus_rift-820x420.jpg "PLANX APP ID 02B")
+
+### PLANX APP ID 02C
+#### Nice, 3D viz Icone + DNA style like, circul 
+![PLANX APP ID 02C](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/888139_4_Starting%20Mission_standard.png "PLANX APP ID 02C")
+
+
+
+### PLANX APP ID 03A PHALANX
+#### Nice, node viz and action payload can be executed and shell
+![PLANX APP ID 03A](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/PhalanX_Photo.png "PLANX APP ID 03A")
+
+
