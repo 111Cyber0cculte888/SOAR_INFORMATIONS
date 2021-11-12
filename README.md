@@ -22,7 +22,9 @@ Security Orchestration, Automation and Response
 
 ![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
 
+#
 # OOAR INFORMATIONS
+#
 
 Offensive Orchestration, Automation and Response
 
