@@ -3,7 +3,7 @@
 
 # SOAR_INFORMATIONS
 
-** Security Orchestration, Automation and Response
+Security Orchestration, Automation and Response
 
 ### SOAR WALKOFF
 
