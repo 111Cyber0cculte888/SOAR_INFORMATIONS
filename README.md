@@ -56,6 +56,10 @@ Offensive Orchestration, Automation and Response
 ![PLANX APP ID 02E](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/1032904_1_032117-DARPA13-passcode_standard.jpg "PLANX APP ID 02E")
 
 
+### PLANX APP ID 02F
+#### You show connexion to cyberwar game for training. You have fake mission and you show your level. Prep operator for lunch attack in the cyberspace. 
+![PLANX APP ID 02F](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/1032891_1_032117-DARPA3-passcode_standard.png "PLANX APP ID 02F")
+
 ### PLANX APP ID 03A PHALANX
 #### Nice, node viz and action payload can be executed and shell
 ![PLANX APP ID 03A](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/PhalanX_Photo.png "PLANX APP ID 03A")
