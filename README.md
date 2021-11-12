@@ -27,4 +27,18 @@ Security Orchestration, Automation and Response
 
 Offensive Orchestration, Automation and Response
 
-![PLANX APP](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/work-darpa-troop.jpg "MarineGEO logo")
+### PLANX APP ID 01A
+#### Nice, you have query table, battle space, planning
+![PLANX APP ID 01A](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/work-darpa-troop.jpg "PLANX APP ID 01A")
+
+### PLANX APP ID 01B
+#### Nice, you have a nice workflow for lunch attack 
+![PLANX APP ID 01B](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/work-darpa-header2.jpg "PLANX APP ID 01B")
+
+### PLANX APP ID 02A
+#### Nice, 3D viz
+![PLANX APP ID 02A](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/work-darpa-header3.jpg "PLANX APP ID 02A")
+
+### PLANX APP ID 02B
+#### Nice, 3D viz but very fat configuration .. and expensive.
+![PLANX APP ID 02B](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/darpa_plan_x_oculus_rift-820x420.jpg "PLANX APP ID 02B")
