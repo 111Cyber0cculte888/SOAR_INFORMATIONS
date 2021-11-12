@@ -51,7 +51,9 @@ Offensive Orchestration, Automation and Response
 #### You show how to make cyberattack, like workflow. Since 2014 .. 
 ![PLANX APP ID 02D](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/343438-H-XHA81-212.jpg "PLANX APP ID 02D")
 
-
+### PLANX APP ID 02E
+#### You show how to make cyberattack, like workflow, task like block of code and is assembled.. FUCK CODE and write block of action .. simple and secure...  
+![PLANX APP ID 02E](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/1032904_1_032117-DARPA13-passcode_standard.jpg "PLANX APP ID 02E")
 
 
 ### PLANX APP ID 03A PHALANX
