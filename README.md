@@ -35,6 +35,10 @@ Offensive Orchestration, Automation and Response
 #### Nice, you have a nice workflow for lunch attack 
 ![PLANX APP ID 01B](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/work-darpa-header2.jpg "PLANX APP ID 01B")
 
+### PLANX APP ID 01C
+#### You can show node and battle space 
+![PLANX APP ID 01C](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/681dd89fb3b57298d739ae90f1f0fd03da499181/original.jpg "PLANX APP ID 01C")
+
 ### PLANX APP ID 02A
 #### Nice, 3D viz
 ![PLANX APP ID 02A](https://github.com/111Cyber0cculte888/SOAR_INFORMATIONS/blob/main/work-darpa-header3.jpg "PLANX APP ID 02A")
